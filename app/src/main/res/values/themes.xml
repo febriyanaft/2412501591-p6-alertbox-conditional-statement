@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme._2412501591_Tugas06_AH" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">#F5F5F5</item>
+        <item name="colorPrimaryDark">#F5F5F5</item>
+        <item name="colorAccent">#1565C0</item>
+        <item name="android:textColorPrimary">#000000</item>
+    </style>
+
+</resources>
